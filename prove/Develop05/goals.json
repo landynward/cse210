@@ -1,0 +1,20 @@
+{
+  "Score": 1030,
+  "Goals": [
+    {
+      "Description": "talk to friend",
+      "Points": 15,
+      "IsCompleted": true
+    },
+    {
+      "Description": "marriage",
+      "Points": 1000,
+      "IsCompleted": true
+    },
+    {
+      "Description": "scriptures",
+      "Points": 15,
+      "IsCompleted": false
+    }
+  ]
+}
